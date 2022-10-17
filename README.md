@@ -30,6 +30,7 @@ Example
  * main - Entry point
  *
  * Return: Always 0
+ *
  */
 int main(void)
 {
@@ -43,5 +44,7 @@ Best\x0ASchool
 ademola@oladosu:~/c/printf$
 
 Authors:
+
 Ademola Oladosu
+
 Chidimma Agha
