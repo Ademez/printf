@@ -32,16 +32,12 @@ Example
  * Return: Always 0
  *
  */
+
 int main(void)
 {
     _printf("%S\n", "Best\nSchool");
     return (0);
 }
-
-ademola@oladosu:~/c/printf$ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 main.c 
-ademola@oladosu:~/c/printf$ ./a.out
-Best\x0ASchool
-ademola@oladosu:~/c/printf$
 
 Authors:
 
